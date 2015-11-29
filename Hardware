@@ -1,0 +1,7 @@
+#Hardwares
+
+1. LinkIt One Board
+2. Grove Base Shield - To Allow grove connectors to connect to the grove sensors and modules
+3. Ultrasonic Ranger Sensor - To detect the distance and proximity of the user. It will then send the data
+4. Wi-Fi Module - Allow connection to a wireless network so that the sensor is able to send data to the cloud
+5. A number of grove connectors - Allow the sensors and modules to connect to each other
