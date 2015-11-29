@@ -1,0 +1,3 @@
+// The ultrasonic.h library is required in order for the ultrasonic sensor to work
+// The LWifi library is required for the WiFi module to work
+// The rgb backlight library is required for the RGB display to work
